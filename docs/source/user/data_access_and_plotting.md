@@ -1,5 +1,5 @@
 (user.data_access_and_plotting)= 
-# Data Acess and Plotting
+# Data Access and Plotting
 
 Let's recapture how to do a scan, and explore the data contained within it. 
 
